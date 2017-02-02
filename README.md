@@ -15,6 +15,6 @@ Very simple. No need to explain.
 
 
 
-2017.02.01
-
 My email: quinn(dot)song(at)teksavvy(dot)com
+
+2017.02.01
