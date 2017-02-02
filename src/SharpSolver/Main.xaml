@@ -1,0 +1,26 @@
+﻿<Window x:Class="SharpSolver.Main"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        
+        Title="Sudoku Solver" Height="402" Width="458" ResizeMode="NoResize">
+    <Grid>
+        <DataGrid AutoGenerateColumns="False" CanUserReorderColumns="False" ColumnWidth="35" HeadersVisibility="None" ItemsSource="{Binding}" Height="315" HorizontalAlignment="Left" Name="dGrid" RowHeight="35" VerticalAlignment="Top" VerticalScrollBarVisibility="Disabled" Width="315" Margin="5,3,0,0" GridLinesVisibility="All" SelectionUnit="Cell" HorizontalScrollBarVisibility="Disabled" DataContext="{Binding}" VerticalGridLinesBrush="SlateGray" HorizontalGridLinesBrush="SlateGray" CanUserSortColumns="False" CanUserResizeRows="False" CanUserResizeColumns="False" FontSize="22" IsSynchronizedWithCurrentItem="True" RowDetailsVisibilityMode="VisibleWhenSelected" FontWeight="Black">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Header" />
+                <DataGridTextColumn Header="Header" />
+                <DataGridTextColumn Header="Header" />
+                <DataGridTextColumn Header="Header" />
+                <DataGridTextColumn Header="Header" />
+                <DataGridTextColumn Header="Header" />
+                <DataGridTextColumn Header="Header" />
+                <DataGridTextColumn Header="Header" />
+                <DataGridTextColumn Header="Header" />
+            </DataGrid.Columns>
+
+        </DataGrid>
+        <Button Content="Start" Height="35" HorizontalAlignment="Left" Margin="332,3,0,0" Name="btnStart" VerticalAlignment="Top" Width="95" />
+        <Button Content="Reset" Height="35" HorizontalAlignment="Left" Margin="332,43,0,0" Name="btnReset" VerticalAlignment="Top" Width="95" />
+        <Label Content="" Height="28" HorizontalAlignment="Left" Margin="332,290,0,0" Name="lbTimer" VerticalAlignment="Top" Width="95" />
+        <ProgressBar Height="30" HorizontalAlignment="Left" Margin="5,321,0,0" Name="pBar" VerticalAlignment="Top" Width="422" Background="Snow" BorderThickness="0,0,1,1" />
+    </Grid>
+</Window>

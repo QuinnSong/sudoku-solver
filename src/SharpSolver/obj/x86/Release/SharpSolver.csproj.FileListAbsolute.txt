@@ -1,0 +1,81 @@
+C:\Users\Steven\Google Drive\c#\sharp solver\SharpSolver150205\SharpSolver\SharpSolver\bin\Release\SudokuSolver.exe
+C:\Users\Steven\Google Drive\c#\sharp solver\SharpSolver150205\SharpSolver\SharpSolver\bin\Release\SudokuSolver.pdb
+C:\Users\Steven\Google Drive\c#\sharp solver\SharpSolver150205\SharpSolver\SharpSolver\obj\x86\Release\SudokuSolver.g.resources
+C:\Users\Steven\Google Drive\c#\sharp solver\SharpSolver150205\SharpSolver\SharpSolver\obj\x86\Release\SharpSolver.Form1.resources
+C:\Users\Steven\Google Drive\c#\sharp solver\SharpSolver150205\SharpSolver\SharpSolver\obj\x86\Release\SharpSolver.Properties.Resources.resources
+C:\Users\Steven\Google Drive\c#\sharp solver\SharpSolver150205\SharpSolver\SharpSolver\obj\x86\Release\SharpSolver.csproj.GenerateResource.Cache
+C:\Users\Steven\Google Drive\c#\sharp solver\SharpSolver150205\SharpSolver\SharpSolver\obj\x86\Release\SudokuSolver.exe
+C:\Users\Steven\Google Drive\c#\sharp solver\SharpSolver150205\SharpSolver\SharpSolver\obj\x86\Release\SudokuSolver.pdb
+D:\windows\Desktop\SharpSolver150205\SharpSolver\SharpSolver\bin\Release\SudokuSolver.exe
+D:\windows\Desktop\SharpSolver150205\SharpSolver\SharpSolver\bin\Release\SudokuSolver.pdb
+D:\windows\Desktop\SharpSolver150205\SharpSolver\SharpSolver\obj\x86\Release\ResolveAssemblyReference.cache
+D:\windows\Desktop\SharpSolver150205\SharpSolver\SharpSolver\obj\x86\Release\SudokuSolver.g.resources
+D:\windows\Desktop\SharpSolver150205\SharpSolver\SharpSolver\obj\x86\Release\SharpSolver.Form1.resources
+D:\windows\Desktop\SharpSolver150205\SharpSolver\SharpSolver\obj\x86\Release\SharpSolver.Properties.Resources.resources
+D:\windows\Desktop\SharpSolver150205\SharpSolver\SharpSolver\obj\x86\Release\GenerateResource.read.1.tlog
+D:\windows\Desktop\SharpSolver150205\SharpSolver\SharpSolver\obj\x86\Release\GenerateResource.write.1.tlog
+D:\windows\Desktop\SharpSolver150205\SharpSolver\SharpSolver\obj\x86\Release\SudokuSolver.exe
+D:\windows\Desktop\SharpSolver150205\SharpSolver\SharpSolver\obj\x86\Release\SudokuSolver.pdb
+D:\windows\Desktop\SharpSolver150205\SharpSolver150206更新\SharpSolver\SharpSolver\obj\x86\Release\SudokuSolver.exe
+D:\windows\Desktop\SharpSolver150205\SharpSolver150206更新\SharpSolver\SharpSolver\obj\x86\Release\SudokuSolver.pdb
+D:\windows\Desktop\SharpSolver150205\SharpSolver150206更新\SharpSolver\SharpSolver\bin\Release\SudokuSolver.exe
+D:\windows\Desktop\SharpSolver150205\SharpSolver150206更新\SharpSolver\SharpSolver\bin\Release\SudokuSolver.pdb
+D:\windows\Desktop\SharpSolver150205\SharpSolver150206更新\SharpSolver\SharpSolver\obj\x86\Release\ResolveAssemblyReference.cache
+D:\windows\Desktop\SharpSolver150205\SharpSolver150206更新\SharpSolver\SharpSolver\obj\x86\Release\SudokuSolver.g.resources
+D:\windows\Desktop\SharpSolver150205\SharpSolver150206更新\SharpSolver\SharpSolver\obj\x86\Release\SharpSolver.Form1.resources
+D:\windows\Desktop\SharpSolver150205\SharpSolver150206更新\SharpSolver\SharpSolver\obj\x86\Release\SharpSolver.Properties.Resources.resources
+D:\windows\Desktop\SharpSolver150205\SharpSolver150206更新\SharpSolver\SharpSolver\obj\x86\Release\GenerateResource.read.1.tlog
+D:\windows\Desktop\SharpSolver150205\SharpSolver150206更新\SharpSolver\SharpSolver\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Steven\Google Drive\c#\sharp solver\20150209\SharpSolver150206更新2\SharpSolver150206更新\SharpSolver\SharpSolver\obj\x86\Release\SudokuSolver.exe
+C:\Users\Steven\Google Drive\c#\sharp solver\20150209\SharpSolver150206更新2\SharpSolver150206更新\SharpSolver\SharpSolver\obj\x86\Release\SudokuSolver.pdb
+C:\Users\Steven\Google Drive\c#\sharp solver\20150209\SharpSolver150206更新2\SharpSolver150206更新\SharpSolver\SharpSolver\bin\Release\SudokuSolver.exe
+C:\Users\Steven\Google Drive\c#\sharp solver\20150209\SharpSolver150206更新2\SharpSolver150206更新\SharpSolver\SharpSolver\obj\x86\Release\SudokuSolver.g.resources
+C:\Users\Steven\Google Drive\c#\sharp solver\20150209\SharpSolver150206更新2\SharpSolver150206更新\SharpSolver\SharpSolver\obj\x86\Release\SharpSolver.Form1.resources
+C:\Users\Steven\Google Drive\c#\sharp solver\20150209\SharpSolver150206更新2\SharpSolver150206更新\SharpSolver\SharpSolver\obj\x86\Release\SharpSolver.Properties.Resources.resources
+C:\Users\Steven\Google Drive\c#\sharp solver\20150209\SharpSolver150206更新2\SharpSolver150206更新\SharpSolver\SharpSolver\obj\x86\Release\SharpSolver.csproj.GenerateResource.Cache
+C:\Users\Steven\Google Drive\c#\sharp solver\20150209\SharpSolver150206更新2\SharpSolver150206更新\SharpSolver\SharpSolver\bin\Release\SudokuSolver.pdb
+D:\windows\Desktop\SharpSolver150205\update2\SharpSolver\SharpSolver\obj\x86\Release\SudokuSolver.exe
+D:\windows\Desktop\SharpSolver150205\update2\SharpSolver\SharpSolver\obj\x86\Release\SudokuSolver.pdb
+D:\windows\Desktop\SharpSolver150205\update2\SharpSolver\SharpSolver\bin\Release\SudokuSolver.exe
+D:\windows\Desktop\SharpSolver150205\update2\SharpSolver\SharpSolver\bin\Release\SudokuSolver.pdb
+D:\windows\Desktop\SharpSolver150205\update2\SharpSolver\SharpSolver\obj\x86\Release\ResolveAssemblyReference.cache
+D:\windows\Desktop\SharpSolver150205\update2\SharpSolver\SharpSolver\obj\x86\Release\SudokuSolver.g.resources
+D:\windows\Desktop\SharpSolver150205\update2\SharpSolver\SharpSolver\obj\x86\Release\SharpSolver.Form1.resources
+D:\windows\Desktop\SharpSolver150205\update2\SharpSolver\SharpSolver\obj\x86\Release\SharpSolver.Properties.Resources.resources
+D:\windows\Desktop\SharpSolver150205\update2\SharpSolver\SharpSolver\obj\x86\Release\GenerateResource.read.1.tlog
+D:\windows\Desktop\SharpSolver150205\update2\SharpSolver\SharpSolver\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Steven\Google Drive\c#\sharp solver\20150209\sharp solver 更新3\update2\SharpSolver\SharpSolver\obj\x86\Release\SudokuSolver.exe
+C:\Users\Steven\Google Drive\c#\sharp solver\20150209\sharp solver 更新3\update2\SharpSolver\SharpSolver\obj\x86\Release\SudokuSolver.pdb
+C:\Users\Steven\Google Drive\c#\sharp solver\20150209\sharp solver 更新3\update2\SharpSolver\SharpSolver\obj\x86\Release\SudokuSolver.g.resources
+C:\Users\Steven\Google Drive\c#\sharp solver\20150209\sharp solver 更新3\update2\SharpSolver\SharpSolver\obj\x86\Release\SharpSolver.Form1.resources
+C:\Users\Steven\Google Drive\c#\sharp solver\20150209\sharp solver 更新3\update2\SharpSolver\SharpSolver\obj\x86\Release\SharpSolver.Properties.Resources.resources
+C:\Users\Steven\Google Drive\c#\sharp solver\20150209\sharp solver 更新3\update2\SharpSolver\SharpSolver\obj\x86\Release\SharpSolver.csproj.GenerateResource.Cache
+C:\Users\Steven\Google Drive\c#\sharp solver\20150209\sharp solver 更新3\update2\SharpSolver\SharpSolver\bin\Release\SudokuSolver.exe
+C:\Users\Steven\Google Drive\c#\sharp solver\20150209\sharp solver 更新3\update2\SharpSolver\SharpSolver\bin\Release\SudokuSolver.pdb
+D:\windows\Desktop\SharpSolver150205\update4\SharpSolver\SharpSolver\obj\x86\Release\SudokuSolver.exe
+D:\windows\Desktop\SharpSolver150205\update4\SharpSolver\SharpSolver\obj\x86\Release\ResolveAssemblyReference.cache
+D:\windows\Desktop\SharpSolver150205\update4\SharpSolver\SharpSolver\obj\x86\Release\SudokuSolver.g.resources
+D:\windows\Desktop\SharpSolver150205\update4\SharpSolver\SharpSolver\obj\x86\Release\SharpSolver.Form1.resources
+D:\windows\Desktop\SharpSolver150205\update4\SharpSolver\SharpSolver\obj\x86\Release\SharpSolver.Properties.Resources.resources
+D:\windows\Desktop\SharpSolver150205\update4\SharpSolver\SharpSolver\obj\x86\Release\GenerateResource.read.1.tlog
+D:\windows\Desktop\SharpSolver150205\update4\SharpSolver\SharpSolver\obj\x86\Release\GenerateResource.write.1.tlog
+D:\windows\Desktop\SharpSolver150205\update4\SharpSolver\SharpSolver\bin\Release\SudokuSolver.exe
+D:\windows\Desktop\SharpSolver150205\update4\SharpSolver\SharpSolver\bin\Release\SudokuSolver.pdb
+D:\windows\Desktop\SharpSolver150205\update4\SharpSolver\SharpSolver\obj\x86\Release\SudokuSolver.pdb
+C:\Users\Qinglin\Downloads\SharpSolver\SharpSolver\obj\x86\Release\SudokuSolver.exe
+C:\Users\Qinglin\Downloads\SharpSolver\SharpSolver\obj\x86\Release\SudokuSolver.pdb
+C:\Users\Qinglin\Downloads\SharpSolver\SharpSolver\bin\Release\SudokuSolver.exe
+C:\Users\Qinglin\Downloads\SharpSolver\SharpSolver\bin\Release\SudokuSolver.pdb
+C:\Users\Qinglin\Downloads\SharpSolver\SharpSolver\obj\x86\Release\SudokuSolver.g.resources
+C:\Users\Qinglin\Downloads\SharpSolver\SharpSolver\obj\x86\Release\SharpSolver.Form1.resources
+C:\Users\Qinglin\Downloads\SharpSolver\SharpSolver\obj\x86\Release\SharpSolver.Properties.Resources.resources
+C:\Users\Qinglin\Downloads\SharpSolver\SharpSolver\obj\x86\Release\SharpSolver.csproj.GenerateResource.Cache
+C:\Users\Steven\Google Drive\c#\sharp solver\20150209\SharpSolver update 41\SharpSolver\SharpSolver\bin\Release\SudokuSolver.exe
+C:\Users\Steven\Google Drive\c#\sharp solver\20150209\SharpSolver update 41\SharpSolver\SharpSolver\bin\Release\SudokuSolver.pdb
+C:\Users\Steven\Google Drive\c#\sharp solver\20150209\SharpSolver update 41\SharpSolver\SharpSolver\obj\x86\Release\SudokuSolver.g.resources
+C:\Users\Steven\Google Drive\c#\sharp solver\20150209\SharpSolver update 41\SharpSolver\SharpSolver\obj\x86\Release\SharpSolver.Form1.resources
+C:\Users\Steven\Google Drive\c#\sharp solver\20150209\SharpSolver update 41\SharpSolver\SharpSolver\obj\x86\Release\SharpSolver.Properties.Resources.resources
+C:\Users\Steven\Google Drive\c#\sharp solver\20150209\SharpSolver update 41\SharpSolver\SharpSolver\obj\x86\Release\SharpSolver.csproj.GenerateResource.Cache
+C:\Users\Steven\Google Drive\c#\sharp solver\20150209\SharpSolver update 41\SharpSolver\SharpSolver\obj\x86\Release\SudokuSolver.exe
+C:\Users\Steven\Google Drive\c#\sharp solver\20150209\SharpSolver update 41\SharpSolver\SharpSolver\obj\x86\Release\SudokuSolver.pdb
+C:\Users\Steven\Google Drive\c#\sharp solver\20150209\SharpSolver update 41\SharpSolver\SharpSolver\obj\x86\Release\SharpSolver.csprojResolveAssemblyReference.cache
