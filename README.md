@@ -1,20 +1,11 @@
-# sudoku-solver
-A Sudoku Solver coded in C#. It's one of my old project :)
+### sudoku-solver
+A Sudoku Solver coded in C#. It's one of my old projects :)
 
-[Author]
-
-Quinn Song
-
-[Prerequisite]
-
+##### Prerequisite
 Microsoft .NET Framework 4
 
-[Usage]
+##### Screenshot
+![N|Solid](https://github.com/QuinnSong/sudoku-solver/blob/master/test/main.png)
 
-Very simple. No need to explain.
-
-
-
-My email: quinn(dot)song(at)teksavvy(dot)com
-
-2017.02.01
+Quinn Song
+2017.02.04 
